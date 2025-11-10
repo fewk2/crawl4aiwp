@@ -212,6 +212,19 @@ No rate-limited APIs. No lock-in. Build and own your data pipeline with direct g
 
 </details>
 
+<details>
+<summary>🔧 <strong>Specialized Domain Crawlers</strong></summary>
+
+- 📚 **Knowledge Base Integration**: Pre-built crawlers for knowledge-sharing platforms like Lewz.cn
+- 🔗 **Baidu Netdisk Extraction**: Automatically extract share links with password detection
+- 📝 **Metadata Harvesting**: Structured extraction of titles, tags, and SEO metadata
+- 🔌 **WordPress Ready**: JSON output optimized for knowledge base and CMS integration
+- 🛠️ **CLI & SDK Access**: Use via command-line or programmatically with CrawlerHub
+
+Learn more in the [Lewz Knowledge Crawler Guide](https://docs.crawl4ai.com/advanced/lewz-knowledge-crawler/)
+
+</details>
+
 ## Try it Now!
 
 ✨ Play around with this [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1SgRPrByQLzjRfwoRNq1wSGE9nYY_EE8C?usp=sharing)

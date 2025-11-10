@@ -55,6 +55,7 @@ nav:
     - "SSL Certificate": "advanced/ssl-certificate.md"
     - "Network & Console Capture": "advanced/network-console-capture.md"
     - "PDF Parsing": "advanced/pdf-parsing.md"
+    - "Lewz Knowledge Crawler": "advanced/lewz-knowledge-crawler.md"
   - Extraction:
     - "LLM-Free Strategies": "extraction/no-llm-strategies.md"
     - "LLM Strategies": "extraction/llm-strategies.md"
