@@ -53,6 +53,7 @@ This page provides a comprehensive list of example scripts that demonstrate vari
 | Amazon with JavaScript | Demonstrates using custom JavaScript for Amazon product extraction. | [View Code](https://github.com/unclecode/crawl4ai/blob/main/docs/examples/amazon_product_extraction_using_use_javascript.py) |
 | Crypto Analysis | Demonstrates how to crawl and analyze cryptocurrency data. | [View Code](https://github.com/unclecode/crawl4ai/blob/main/docs/examples/crypto_analysis_example.py) |
 | SERP API | Demonstrates using Crawl4AI with search engine result pages. | [View Code](https://github.com/unclecode/crawl4ai/blob/main/docs/examples/serp_api_project_11_feb.py) |
+| Lewz Knowledge Crawler | Specialized crawler for extracting Baidu Netdisk links and metadata from lewz.cn knowledge base for WordPress integration. | [View Guide](../advanced/lewz-knowledge-crawler.md) |
 
 ## Anti-Bot & Stealth Features
 

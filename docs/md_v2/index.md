@@ -145,7 +145,7 @@ To help you get started, we’ve organized our docs into clear sections:
 - **Core**  
   Deeper guides on single-page crawling, advanced browser/crawler parameters, content filtering, and caching.  
 - **Advanced**  
-  Explore link & media handling, lazy loading, hooking & authentication, proxies, session management, and more.  
+  Explore link & media handling, lazy loading, hooking & authentication, proxies, session management, specialized domain crawlers (like the [Lewz Knowledge Crawler](advanced/lewz-knowledge-crawler.md) for knowledge base integration), and more.  
 - **Extraction**  
   Detailed references for no-LLM (CSS, XPath) vs. LLM-based strategies, chunking, and clustering approaches.  
 - **API Reference**  
